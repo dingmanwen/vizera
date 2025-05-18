@@ -1,4 +1,15 @@
 {
-  "recommendations": ["astro-build.astro-vscode"],
-  "unwantedRecommendations": []
+  "recommendations": [
+    "esbenp.prettier-vscode",               // 自动格式化代码
+    "dbaeumer.vscode-eslint",               // ESLint 错误检查
+    "bradlc.vscode-tailwindcss",            // Tailwind CSS 智能提示
+    "dsznajder.es7-react-js-snippets",      // React 快捷代码片段
+    "formulahendry.auto-rename-tag",        // 同步修改 JSX 标签
+    "formulahendry.auto-close-tag",         // 自动补全 HTML/JSX 标签
+    "wix.vscode-import-cost",               // 显示 import 模块体积
+    "stylelint.vscode-stylelint",           // CSS/SCSS 规范检查
+    "GitHub.copilot",                       // AI 代码辅助（如你已启用）
+    "ms-vscode.vscode-typescript-next",     // 最新 TypeScript 支持
+    "prisma.prisma"                         // Prisma 支持（如你有用）
+  ]
 }
